@@ -1,0 +1,22 @@
+#mini_container {
+    width: 100%;
+    height: 500px;
+    background-color: antiquewhite;
+}
+
+#CSS {
+    width: 49%;
+   /**background-color: aliceblue;**/
+}
+
+#JS {
+    width: 49%;
+    /**background-color: aliceblue;**/
+    float: right;
+}
+
+#imagens_esticada {
+    margin-left: 3%;
+}
+
+
